@@ -10,10 +10,7 @@ Feature: Home Page Test
     And Test Ayacucho logo page button
     Then User sees Ayacucho page
     And Test Juttu logo page button
-    Then User sees Jutto page
-
-
-
+    Then User sees Juttu page
 
  # YONDERLAND UI Test Checking Lijst
     # HOMEPAGE TEST -- FIRST

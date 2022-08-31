@@ -15,6 +15,7 @@ public class HomePage {
     // Fields: Locators, Webelements,
 
    // @FindBy(id="header")
+    @FindBy(xpath="/html/body/div[1]/div[2]")
     public static WebElement yonderlandLogo;
 
     // xpath yonderland.com ayacucho logo and menu button
